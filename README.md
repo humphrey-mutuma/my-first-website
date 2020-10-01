@@ -1,4 +1,4 @@
-# my-first-webpage-
+# My-First-Webpage-
 ### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
 ## Description
